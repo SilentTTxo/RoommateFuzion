@@ -1,0 +1,14 @@
+<Solution>
+  <PropertyGroup Name="RoommateFuzion" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <TmxFile Name="BlackWhite.tmx" />
+        <Image Name="entities.png" />
+        <Image Name="hero_idle_01.png" />
+        <Project Name="Layer.csd" Type="Layer" />
+        <Project Name="MainScene.csd" Type="Scene" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

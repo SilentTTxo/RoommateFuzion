@@ -1,0 +1,31 @@
+﻿  HelloWorldScene.cpp
+d:\cocos2dxdata\roommatefuzion\classes\helloworldscene.h(19): warning C4996: 'cocos2d::CCPoint': 被声明为已否决
+  c:\cocos\cocos2d-x\cocos2d-x-3.10\cocos\deprecated\ccdeprecated.h(775): note: 参见“cocos2d::CCPoint”的声明
+d:\cocos2dxdata\roommatefuzion\classes\helloworldscene.h(28): warning C4996: 'cocos2d::CCTMXTiledMap': 被声明为已否决
+  c:\cocos\cocos2d-x\cocos2d-x-3.10\cocos\deprecated\ccdeprecated.h(767): note: 参见“cocos2d::CCTMXTiledMap”的声明
+d:\cocos2dxdata\roommatefuzion\classes\player.h(3): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+d:\cocos2dxdata\roommatefuzion\classes\player.h(8): warning C4996: 'cocos2d::CCSprite': 被声明为已否决
+  c:\cocos\cocos2d-x\cocos2d-x-3.10\cocos\deprecated\ccdeprecated.h(680): note: 参见“cocos2d::CCSprite”的声明
+d:\cocos2dxdata\roommatefuzion\classes\helloworldscene.cpp(41): warning C4996: 'cocos2d::CCTMXTiledMap': 被声明为已否决
+  c:\cocos\cocos2d-x\cocos2d-x-3.10\cocos\deprecated\ccdeprecated.h(767): note: 参见“cocos2d::CCTMXTiledMap”的声明
+d:\cocos2dxdata\roommatefuzion\classes\helloworldscene.cpp(117): warning C4996: 'cocos2d::CCPoint': 被声明为已否决
+  c:\cocos\cocos2d-x\cocos2d-x-3.10\cocos\deprecated\ccdeprecated.h(775): note: 参见“cocos2d::CCPoint”的声明
+d:\cocos2dxdata\roommatefuzion\classes\helloworldscene.cpp(119): warning C4996: 'cocos2d::CCSize': 被声明为已否决
+  c:\cocos\cocos2d-x\cocos2d-x-3.10\cocos\deprecated\ccdeprecated.h(776): note: 参见“cocos2d::CCSize”的声明
+d:\cocos2dxdata\roommatefuzion\classes\helloworldscene.cpp(125): warning C4996: 'cocos2d::CCPoint': 被声明为已否决
+  c:\cocos\cocos2d-x\cocos2d-x-3.10\cocos\deprecated\ccdeprecated.h(775): note: 参见“cocos2d::CCPoint”的声明
+d:\cocos2dxdata\roommatefuzion\classes\helloworldscene.cpp(127): warning C4996: 'cocos2d::CCPoint': 被声明为已否决
+  c:\cocos\cocos2d-x\cocos2d-x-3.10\cocos\deprecated\ccdeprecated.h(775): note: 参见“cocos2d::CCPoint”的声明
+d:\cocos2dxdata\roommatefuzion\classes\helloworldscene.cpp(128): warning C4996: 'cocos2d::CCPoint': 被声明为已否决
+  c:\cocos\cocos2d-x\cocos2d-x-3.10\cocos\deprecated\ccdeprecated.h(775): note: 参见“cocos2d::CCPoint”的声明
+d:\cocos2dxdata\roommatefuzion\classes\helloworldscene.cpp(119): warning C4996: 'cocos2d::Director::sharedDirector': 被声明为已否决
+  c:\cocos\cocos2d-x\cocos2d-x-3.10\cocos\base\ccdirector.h(138): note: 参见“cocos2d::Director::sharedDirector”的声明
+d:\cocos2dxdata\roommatefuzion\classes\helloworldscene.cpp(125): warning C4996: 'cocos2d::ccp': 被声明为已否决
+  c:\cocos\cocos2d-x\cocos2d-x-3.10\cocos\deprecated\ccdeprecated.h(49): note: 参见“cocos2d::ccp”的声明
+d:\cocos2dxdata\roommatefuzion\classes\helloworldscene.cpp(127): warning C4996: 'cocos2d::ccp': 被声明为已否决
+  c:\cocos\cocos2d-x\cocos2d-x-3.10\cocos\deprecated\ccdeprecated.h(49): note: 参见“cocos2d::ccp”的声明
+d:\cocos2dxdata\roommatefuzion\classes\helloworldscene.cpp(128): warning C4996: 'cocos2d::ccpSub': 被声明为已否决
+  c:\cocos\cocos2d-x\cocos2d-x-3.10\cocos\deprecated\ccdeprecated.h(82): note: 参见“cocos2d::ccpSub”的声明
+  60 File(s) copied
+  RoommateFuzion.vcxproj -> D:\cocos2dxData\RoommateFuzion\proj.win32\Debug.win32\RoommateFuzion.exe
+  0 File(s) copied

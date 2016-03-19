@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="60" height="34" tilewidth="32" tileheight="32" backgroundcolor="#ffffff" nextobjectid="1">
+ <tileset firstgid="1" name="entities" tilewidth="32" tileheight="32">
+  <image source="entities.png" width="1024" height="1024"/>
+  <tile id="33">
+   <properties>
+    <property name="Collidable" value="true"/>
+   </properties>
+  </tile>
+ </tileset>
+ <tileset firstgid="1025" name="JnRLayer01" tilewidth="32" tileheight="32">
+  <image source="JnRLayer01.png" width="400" height="240"/>
+ </tileset>
+ <layer name="back" width="60" height="34">
+  <data encoding="base64" compression="zlib">
+   eJztwzENAAAMA6AeE1b/qmpjByT0kqqqqqqqqqqqrw9YHh3/
+  </data>
+ </layer>
+ <layer name="wall" width="60" height="34">
+  <data encoding="base64" compression="zlib">
+   eJzt10sKwCAQBFHP4v0PmU1WgpDPCNNUPeidC9sxEMeQJOmfeYeC1peONu8vfefhdEPrm4R2hrS+dLR50/p2Qjt7++7XpP7DvN1bat/Oe6vWfRaVEu5elZRvbXX6PWiMMcY8yQVpR0n7
+  </data>
+ </layer>
+</map>
